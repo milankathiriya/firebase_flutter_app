@@ -20,6 +20,18 @@ Publish Code to GitHub
 - Grab Project from GitHub
 */
 
+/*
+  How to push/upload in GitHub?
+    1. Goto your project directory
+    2. git init
+    3. git add [file/folder/path/.]
+    4. git commit -m "commit name"
+    5. git push -u origin [branch name/master]
+
+   How to pull/download project from GitHub?
+    1. git clone [project url]
+* */
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
