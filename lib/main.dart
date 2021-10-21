@@ -18,8 +18,6 @@ Publish Code to GitHub
 - Create first GitHub Repository
 - Push first App on GitHub
 - Grab Project from GitHub
-
-a. staging area
 */
 
 void main() async {
