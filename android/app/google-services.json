@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "715706856222",
+    "project_id": "afternoon-app-70a64",
+    "storage_bucket": "afternoon-app-70a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715706856222:android:881cad21d9ed71143e8f0f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_3_pm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715706856222-uu318digtaho03emmdvu5146nb1n1bk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_3_pm_app",
+            "certificate_hash": "4a552796afdab90880378dd90afcd040497756ec"
+          }
+        },
+        {
+          "client_id": "715706856222-iha8lqv64io0aklkei4gspskl1163vom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfhkMivwUFLIb9V4Q4q55LIy5qaDbUiCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715706856222-iha8lqv64io0aklkei4gspskl1163vom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
